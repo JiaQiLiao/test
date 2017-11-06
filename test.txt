@@ -4,3 +4,4 @@ master-commit
 release
 123
 new branch feature12-3
+master-conflicts
